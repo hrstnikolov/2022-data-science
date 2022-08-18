@@ -1,0 +1,15 @@
+*.docx
+*.pptx
+*.xml
+*.zip
+*.csv
+*.xlsx
+*.7z
+*.shp
+*.dbf
+*.shx
+*.jpg
+*.sqlite3
+*.bak
+*.xls
+__init__.py
